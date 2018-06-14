@@ -9,4 +9,5 @@ This uses [Bootstrap](https://getbootstrap.com/) for all the styling, so if ther
 ```
 
 2. Download the Chrome extension below, and point it to your HTML file.
+
 https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna

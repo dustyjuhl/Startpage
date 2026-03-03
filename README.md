@@ -8,6 +8,13 @@ This uses [Bootstrap](https://getbootstrap.com/) for all the styling, so if ther
 .\filename.html
 ```
 
-2. Download the Chrome extension below, and point it to your HTML file.
+2. Install dependencies from the repo root (same folder as `package.json`):
+```
+npm install
+```
+
+This project now uses npm dependencies for frontend libraries. The HTML files load Bootstrap from `node_modules`.
+
+3. Download the Chrome extension below, and point it to your HTML file.
 
 https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna

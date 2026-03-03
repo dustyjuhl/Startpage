@@ -1,0 +1,25 @@
+{
+  "name": "startpage",
+  "version": "1.0.0",
+  "description": "This uses [Bootstrap](https://getbootstrap.com/) for all the styling, so if there are other colors you want for some reason you can apply styles, e.g. btn-info, btn-warning, btn-danger, btn-default instead of just btn-primary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustyjuhl/Startpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dustyjuhl/Startpage/issues"
+  },
+  "homepage": "https://github.com/dustyjuhl/Startpage#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "jquery": "^4.0.0"
+  }
+}

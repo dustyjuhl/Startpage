@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/dustyjuhl/Startpage#readme",
   "dependencies": {
-    "bootstrap": "^5.3.8",
+    "bootstrap": "^5.3.9",
     "jquery": "^4.0.0"
   }
 }
